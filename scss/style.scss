@@ -1,0 +1,8 @@
+.hello{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    &:hover{
+        color: green;
+    }
+}
